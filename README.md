@@ -87,13 +87,13 @@ print("For population = 70,000 , we predict a profit of $"+str(round(predict2,0)
 ```
 
 ## Output:
-![ex 3 1](https://github.com/RoghithKrishnamoorthy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119475474/7ebf08fc-cf45-4adc-9877-6b0c99ba8edc)
-![ex 3 2](https://github.com/RoghithKrishnamoorthy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119475474/d9ebe72b-f7f9-4606-b0c1-2998b992e951)
-![ex 3 3](https://github.com/RoghithKrishnamoorthy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119475474/487ed6d6-2896-47ce-a86c-af10dc81c9c0)
-![ex 3 4](https://github.com/RoghithKrishnamoorthy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119475474/627ca95f-32b8-49e6-ba01-7acc5ffcf02b)
-![ex 3 5](https://github.com/RoghithKrishnamoorthy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119475474/eb180656-c5af-4aae-9ffd-f1353b9fef37)
-![ex 3 6](https://github.com/RoghithKrishnamoorthy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119475474/70287ffe-78a8-416f-b330-7a526a3421d9)
-![ex 3 7](https://github.com/RoghithKrishnamoorthy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119475474/de0adb8b-acf0-4b1a-91a3-447bebfb0bc7)
+![ex 3 1.profit prediction](https://github.com/RoghithKrishnamoorthy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119475474/7ebf08fc-cf45-4adc-9877-6b0c99ba8edc)
+![ex 3 2.function output](https://github.com/RoghithKrishnamoorthy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119475474/d9ebe72b-f7f9-4606-b0c1-2998b992e951)
+![ex 3 3.Gradient Descent](https://github.com/RoghithKrishnamoorthy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119475474/487ed6d6-2896-47ce-a86c-af10dc81c9c0)
+![ex 3 4.Cost function using gradient descent](https://github.com/RoghithKrishnamoorthy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119475474/627ca95f-32b8-49e6-ba01-7acc5ffcf02b)
+![ex 3 5.Linear regression using profit prediction](https://github.com/RoghithKrishnamoorthy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119475474/eb180656-c5af-4aae-9ffd-f1353b9fef37)
+![ex 3 6.Profit prediction for a population of 35,000](https://github.com/RoghithKrishnamoorthy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119475474/70287ffe-78a8-416f-b330-7a526a3421d9)
+![ex 3 7.Profit prediction for a population of 70,000](https://github.com/RoghithKrishnamoorthy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119475474/de0adb8b-acf0-4b1a-91a3-447bebfb0bc7)
 
 
 
